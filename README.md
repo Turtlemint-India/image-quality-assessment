@@ -214,7 +214,7 @@ To get predictions from the aesthetic or technical model:
 3. Install python dependencies to run TF serving sample client
     ```
     virtualenv -p python3.6 contrib/tf_serving/venv_tfs_nima
-    source contrib/tf_serving/venv_tfs_nima/bin/activate
+    source contrib/tf_serving/venv_tfs_nim/bin/activate
     pip install -r contrib/tf_serving/requirements.txt
     ```
 4. Get predictions from aesthetic or technical model by running the sample client
